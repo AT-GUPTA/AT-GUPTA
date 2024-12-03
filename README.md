@@ -69,7 +69,12 @@ A scientific calculator web app with complex equation parsing and history tracki
 
 ## 📊 GitHub Stats
 ![Atul's GitHub Stats](./stats.svg)
+[![Atul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AT-GUPTA&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AT-GUPTA&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AT-GUPTA&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits Badge](https://img.shields.io/badge/Total%20Commits-500+-blue?style=for-the-badge&logo=github)
+![Stars Badge](https://img.shields.io/badge/Total%20Stars-50+-yellow?style=for-the-badge&logo=github)
+![Forks Badge](https://img.shields.io/badge/Total%20Forks-10+-green?style=for-the-badge&logo=github)
 
 
 ---
