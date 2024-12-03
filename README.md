@@ -63,8 +63,6 @@ A scientific calculator web app with complex equation parsing and history tracki
 - **Dean’s List Award (2022-2024)** at Concordia University.  
 - **International Entrance Scholar Award (2021-2024)** for academic excellence.  
 - Engineered a platform optimization, reducing **technical debt by 100%** and boosting speed by **70%**.  
-- **SAT Subject Tests:** Full scores in **Mathematics II (800/800)** and **Physics (800/800)**.
-
 ---
 
 ## 📊 GitHub Stats
