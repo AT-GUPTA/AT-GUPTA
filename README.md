@@ -72,4 +72,4 @@ A scientific calculator web app with complex equation parsing and history tracki
 
 ---
 
-*“Technology should simplify lives and solve real-world problems. Let’s build a better future together!”*
+*“Writing code is like raising a child: you nurture it with care, teach it to adapt, and as it grows, ensure it can scale to face the challenges of the world.”* - Me
