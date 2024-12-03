@@ -69,6 +69,8 @@ A scientific calculator web app with complex equation parsing and history tracki
 
 ## 📊 GitHub Stats
 ![Atul's GitHub Stats](./stats.svg)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AT-GUPTA&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
